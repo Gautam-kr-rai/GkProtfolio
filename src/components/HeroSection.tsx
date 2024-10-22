@@ -22,7 +22,7 @@ function HeroSection() {
  
   <p className="font-medium text-lg md:text-xl text-white">
 
-    I'm Gautam, a student at <span className="font-bold text-emerald-400">DTU (2021-2025)</span>,
+    I am Gautam, a student at <span className="font-bold text-emerald-400">DTU (2021-2025)</span>,
   </p>
   
   {/* Second Part: Detailed description */}
