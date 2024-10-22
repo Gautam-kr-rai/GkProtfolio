@@ -1,0 +1,82 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "E-Commerce Website",
+      "slug": "guitar-fundamentals",
+      "description": "A fully functional e-commerce platform that includes product listings, shopping cart functionality, and secure payment processing.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/Ecom.png", 
+       "link": "https://e-commerce-logz.onrender.com/"
+    },
+    {
+      "id": 2,
+      "title": "Live Document Editing Tool",
+      "slug": "piano-for-beginners",
+      "description": "A feature-rich platform for seamless document collaboration, offering real-time editing and commenting features.",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/live_docs.png" ,
+      "link": "http://live-docs-umber.vercel.app/"
+    },
+    {
+      "id": 3,
+      "title": "PDF  Summarizer",
+      "slug": "advanced-vocal-techniques",
+      "description": "A PDF reader application that utilizes machine learning for document summarization and information retrieval.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/PdfSum.png" ,
+      "link":"http://live-docs-umber.vercel.app/"
+    },
+    {
+      "id": 4,
+      "title": "AI-Powered Chatbot",
+      "slug": "drumming-mastery",
+      "description": "Developed a chatbot utilizing the GenMini Large Language Model (LLM) to deliver accurate, responsive conversational experiences. Implemented advanced natural language processing techniques for dynamic and context-aware interactions.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/Ai-bot.png",
+      "link":"https://huggingface.co/spaces/gautamkr/chatbot"
+    },
+    {
+      "id": 5,
+      "title": "Todo",
+      "slug": "jazz-improvisation",
+      "description": "Developed a responsive and user-friendly to-do app using React.js. The app allows users to create, update, and manage tasks with an intuitive interface. It incorporates state management for real-time updates and dynamic task handling, enhancing productivity and ensuring an efficient task management experience.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": false,
+      "image": "/courses/Todo.png",
+      "link":"https://todo-page-sigma.vercel.app/"
+    },
+    {
+      "id": 6,
+      "title": "Chatbot",
+      "slug": "music-production-fundamentals",
+      "description": "A chatbot application developed with the MERN stack, designed to improve user engagement and support on websites.",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "/courses/chat-bot.png"
+      
+    },
+
+    {
+      "id": 10,
+      "title": "Real-time chat application",
+      "slug": "blues-guitar-techniques",
+      "description": "Built a real-time messaging application with Socket.io, Node.js, and Express.js for seamless, interactive communication",
+      "price": 189.99,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/courses/realtime.png",
+      "link":"https://group-chat-nn03.onrender.com/"
+    }
+  ]
+}
